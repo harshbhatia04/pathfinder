@@ -154,7 +154,7 @@ const SmartFacilityFinder = () => {
     return (
         <div id="app-container">
             <div id="control-panel">
-                <h1 className="text-2xl font-bold text-blue-800">Smart Facility Finder</h1>
+                <h1 className="text-2xl font-bold text-blue-800">Pathfinder</h1>
                 <p className="text-xs text-gray-500 mb-6 border-b pb-2">Dehradun City - DAA Project</p>
 
                 <div className="space-y-4">

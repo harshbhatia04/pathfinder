@@ -1,5 +1,5 @@
 {
-  "name": "smart-facility-finder-dehradun",
+  "name": "pathfinder",
   "private": true,
   "version": "1.0.0",
   "description": "Smart Vehicle Service & Facility Finder using Dijkstra Algorithm in C",
