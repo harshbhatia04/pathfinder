@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.exe
+compile_errors.txt
+backend/node_modules

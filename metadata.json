@@ -1,5 +1,0 @@
-{
-  "name": "Mumbai Metro Pathfinder",
-  "description": "An intelligent route planner for the Mumbai Metro network. Find the fastest path between stations, including support for via stops and an interactive map, presented with a sleek, modern landing page.",
-  "requestFramePermissions": []
-}
